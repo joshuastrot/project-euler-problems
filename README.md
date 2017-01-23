@@ -1,3 +1,3 @@
 # project-euler-problems
 
-My solutons to the project euler problems.
+My solutions to the project euler problems.
